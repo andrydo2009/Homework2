@@ -71,6 +71,7 @@ class Main {
         System.out.println("Всего работников в компании теперь – " +  allPersonal + " человек.");
         individualHour = jobHour / allPersonal;
         System.out.println("Если в компании теперь работает " + allPersonal + " человека, то всего " + individualHour + " часа работы может быть поделено между сотрудниками.");
-
+        System.out.println(" ");
+        System.out.println("THE END");
     }
 }
